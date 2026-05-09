@@ -47,7 +47,7 @@ YouTube 개인정보처리방침: [https://policies.google.com/privacy](https://
 
 ## 문의
 
-개인정보처리방침 관련 문의: hyunseok.yu1@gmail.com
+개인정보처리방침 관련 문의: backdev.tip@gmail.com
 
 ---
 
@@ -65,4 +65,4 @@ All network communication occurs directly with YouTube/Google servers. No develo
 
 This app uses YouTube (Google LLC) services. Google's Privacy Policy applies: [https://policies.google.com/privacy](https://policies.google.com/privacy)
 
-Contact: hyunseok.yu1@gmail.com
+Contact: backdev.tip@gmail.com
